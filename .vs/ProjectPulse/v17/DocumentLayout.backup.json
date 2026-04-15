@@ -1,0 +1,1016 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectPulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\ProjectPulse\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\emailtemplatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\emailtemplatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\projectpulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\projectpulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\projectpulse\\projectpulse.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\notification\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\notification\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\chat\\chatmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\chat\\chatmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\task\\addcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\task\\addcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\task\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\task\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\task\\taskdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\task\\taskdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\project\\addmemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\project\\addmemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\project\\projectdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\project\\projectdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\project\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\project\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\project\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\project\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\user\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\user\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\user\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\user\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\migrations\\20260411220214_addrefreshtokentouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260411220214_addrefreshtokentouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\migrations\\20260411124717_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260411124717_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|d:\\projectpulse\\projectpulse.core\\entities\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\entities\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\migrations\\20260412015210_addchatandnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260412015210_addchatandnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\migrations\\20260412013704_addprojectsandtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260412013704_addprojectsandtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\migrations\\20260412003939_addupdatedattouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260412003939_addupdatedattouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\projectpulse\\projectpulse.infrastructure\\migrations\\20260413143945_authmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260413143945_authmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\ProjectPulse\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\ProjectPulse\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-15T02:04:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:46:40.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:57:48.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:26:28.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\appsettings.json",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
+              "RelativeToolTip": "ProjectPulse.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T12:43:43.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Program.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Program.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Program.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAmwM0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:36:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:54:58.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:34:36.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailTemplateHelper.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:58:20.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:58:53.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectPulse.API.csproj",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\ProjectPulse.API.csproj",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\ProjectPulse.API.csproj",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\ProjectPulse.API.csproj",
+              "RelativeToolTip": "ProjectPulse.API\\ProjectPulse.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T12:34:47.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20260413143945_authMig.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260413143945_authMig.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260413143945_authMig.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260413143945_authMig.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260413143945_authMig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:39:46.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:33:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:48:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:07:58.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:48:24.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:08:21.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:35:03.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectMember.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\ProjectMember.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\ProjectMember.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\ProjectMember.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\ProjectMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:23:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:22:24.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:22:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskComment.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\TaskComment.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\TaskComment.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\TaskComment.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\TaskComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:24:18.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\Project.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\Project.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:23:13.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwJcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:07:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\TaskService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TaskService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\TaskService.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAmwC4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:34:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:57:25.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:55:29.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\ChatService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ChatService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\ChatService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:46:20.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:47:23.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.API\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.API\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "ProjectPulse.API\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:47:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20260412015210_AddChatAndNotifications.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260412015210_AddChatAndNotifications.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260412015210_AddChatAndNotifications.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260412015210_AddChatAndNotifications.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260412015210_AddChatAndNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:52:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\INotificationService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:45:58.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IChatService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:45:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:45:12.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChatMessageDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:44:46.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20260412013704_AddProjectsAndTasks.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260412013704_AddProjectsAndTasks.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260412013704_AddProjectsAndTasks.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260412013704_AddProjectsAndTasks.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260412013704_AddProjectsAndTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:37:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:57:05.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\ITaskService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:33:22.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IProjectService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:32:56.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddCommentDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:32:26.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateTaskStatusDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:32:06.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TaskDetailsDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:31:45.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:31:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:30:19.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddMemberDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:30:02.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProjectDetailsDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:29:14.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateProjectDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:28:55.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateProjectDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:28:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20260412003939_AddUpdatedAtToUser.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260412003939_AddUpdatedAtToUser.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260412003939_AddUpdatedAtToUser.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260412003939_AddUpdatedAtToUser.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260412003939_AddUpdatedAtToUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:39:40.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:07:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:05:43.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AssignRoleDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:06:02.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:06:24.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserDetailsDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T00:04:59.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260411220214_AddRefreshTokenToUser.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260411220214_AddRefreshTokenToUser.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260411220214_AddRefreshTokenToUser.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260411220214_AddRefreshTokenToUser.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260411220214_AddRefreshTokenToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T22:02:15.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:54:23.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:54:07.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:53:47.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20260411124717_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260411124717_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260411124717_InitialCreate.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260411124717_InitialCreate.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260411124717_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:47:18.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\Notification.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\Notification.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:24:47.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\ChatMessage.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\ChatMessage.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:24:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\TaskItem.cs",
+              "ToolTip": "D:\\ProjectPulse\\ProjectPulse.Core\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "ProjectPulse.Core\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:23:59.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

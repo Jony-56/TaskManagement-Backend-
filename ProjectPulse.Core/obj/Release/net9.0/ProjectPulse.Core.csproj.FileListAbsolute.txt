@@ -1,0 +1,12 @@
+D:\ProjectPulse\ProjectPulse.Core\bin\Release\net9.0\ProjectPulse.Core.deps.json
+D:\ProjectPulse\ProjectPulse.Core\bin\Release\net9.0\ProjectPulse.Core.dll
+D:\ProjectPulse\ProjectPulse.Core\bin\Release\net9.0\ProjectPulse.Core.pdb
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.csproj.AssemblyReference.cache
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.AssemblyInfoInputs.cache
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.AssemblyInfo.cs
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.csproj.CoreCompileInputs.cache
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.dll
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\refint\ProjectPulse.Core.dll
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ProjectPulse.Core.pdb
+D:\ProjectPulse\ProjectPulse.Core\obj\Release\net9.0\ref\ProjectPulse.Core.dll
