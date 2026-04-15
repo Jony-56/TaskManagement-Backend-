@@ -55,12 +55,16 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// ================= DATABASE =================
+// ================= DATABASE (MYSQL - RAILWAY) =================
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection")
-    )
-);
+{
+    var conn = builder.Configuration.GetConnectionString("DefaultConnection");
+
+    options.UseMySql(
+        conn,
+        ServerVersion.AutoDetect(conn)
+    );
+});
 
 // ================= IDENTITY =================
 builder.Services.AddIdentityCore<AppUser>(options =>
@@ -120,7 +124,7 @@ builder.Services.AddAuthorization();
 // ================= SIGNALR =================
 builder.Services.AddSignalR();
 
-// ================= CORS (FULL OPEN) =================
+// ================= CORS (FULL OPEN - FOR TESTING) =================
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -182,12 +186,8 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = "swagger";
 });
 
+// root route
 app.MapGet("/", () => Results.Redirect("/swagger"));
-
-if (app.Environment.IsDevelopment())
-{
-    app.UseHttpsRedirection();
-}
 
 // ================= MIDDLEWARE =================
 app.UseCors("AllowAll");

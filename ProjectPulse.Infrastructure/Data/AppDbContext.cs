@@ -1,14 +1,15 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using ProjectPulse.Core.Entities;
-using System.Collections.Generic;
-using System.Reflection.Emit;
 
 namespace ProjectPulse.Infrastructure.Data;
 
 public class AppDbContext : IdentityDbContext<AppUser>
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+    public AppDbContext(DbContextOptions<AppDbContext> options)
+        : base(options)
+    {
+    }
 
     public DbSet<Project> Projects => Set<Project>();
     public DbSet<ProjectMember> ProjectMembers => Set<ProjectMember>();
@@ -21,33 +22,48 @@ public class AppDbContext : IdentityDbContext<AppUser>
     {
         base.OnModelCreating(builder);
 
-        // Project → Owner
+        // ===== MySQL FIX =====
+        builder.Entity<AppUser>(entity =>
+        {
+            entity.Property(x => x.FullName)
+                  .HasColumnType("varchar(255)");
+        });
+
+        foreach (var entity in builder.Model.GetEntityTypes())
+        {
+            foreach (var property in entity.GetProperties())
+            {
+                if (property.ClrType == typeof(string))
+                {
+                    property.SetColumnType("varchar(255)");
+                }
+            }
+        }
+
+        // ===== RELATIONS =====
+
         builder.Entity<Project>()
             .HasOne(p => p.Owner)
             .WithMany()
             .HasForeignKey(p => p.OwnerId)
             .OnDelete(DeleteBehavior.Restrict);
 
-        // ProjectMember composite
         builder.Entity<ProjectMember>()
             .HasIndex(pm => new { pm.ProjectId, pm.UserId })
             .IsUnique();
 
-        // TaskItem → Assignee (no cascade)
         builder.Entity<TaskItem>()
             .HasOne(t => t.Assignee)
             .WithMany(u => u.AssignedTasks)
             .HasForeignKey(t => t.AssigneeId)
             .OnDelete(DeleteBehavior.SetNull);
 
-        // TaskComment → Author (no cascade)
         builder.Entity<TaskComment>()
             .HasOne(c => c.Author)
             .WithMany()
             .HasForeignKey(c => c.AuthorId)
             .OnDelete(DeleteBehavior.Restrict);
 
-        // ChatMessage → Sender (no cascade)
         builder.Entity<ChatMessage>()
             .HasOne(m => m.Sender)
             .WithMany(u => u.ChatMessages)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectPulse.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed32f9cd29f831420b81bd43b35b72cdfb260bbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44fc8d2c78bdcb77efe2f40aeb91f1479ddf2ea8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectPulse.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectPulse.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -52,7 +52,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",

@@ -59,7 +59,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -73,11 +73,15 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[8.1.4, )"
+              "version": "[9.0.6, )"
             }
           },
           "imports": [
@@ -151,7 +155,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -234,7 +238,7 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
             },
             "Microsoft.AspNetCore.SignalR": {
               "target": "Package",
@@ -242,17 +246,21 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.25, )"
+              "version": "[9.0.15, )"
             },
             "MimeKit": {
               "target": "Package",
               "version": "[4.15.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
