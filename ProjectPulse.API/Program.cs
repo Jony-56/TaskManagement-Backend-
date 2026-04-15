@@ -124,15 +124,14 @@ builder.Services.AddAuthorization();
 // ================= SIGNALR =================
 builder.Services.AddSignalR();
 
-// ================= CORS (FULL OPEN - FOR TESTING) =================
+// ================= CORS =================
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
     {
-        policy
-            .AllowAnyOrigin()
-            .AllowAnyHeader()
-            .AllowAnyMethod();
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
     });
 });
 
@@ -148,23 +147,29 @@ builder.Services.AddScoped<INotificationService, NotificationService>();
 
 var app = builder.Build();
 
-// ================= SEED DATA =================
+// ================= SEED DATA (FIXED ASYNC SAFE) =================
 using (var scope = app.Services.CreateScope())
 {
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+    var userManager = scope.ServiceProvider.GetRequiredService<UserManager<AppUser>>();
 
-    foreach (var role in new[] { "Admin", "ProjectManager", "Member" })
+    string[] roles = { "Admin", "ProjectManager", "Member" };
+
+    foreach (var role in roles)
     {
         if (!await roleManager.RoleExistsAsync(role))
+        {
             await roleManager.CreateAsync(new IdentityRole(role));
+        }
     }
 
-    var userManager = scope.ServiceProvider.GetRequiredService<UserManager<AppUser>>();
     var adminEmail = "admin@projectpulse.com";
 
-    if (await userManager.FindByEmailAsync(adminEmail) is null)
+    var admin = await userManager.FindByEmailAsync(adminEmail);
+
+    if (admin == null)
     {
-        var admin = new AppUser
+        var newAdmin = new AppUser
         {
             FullName = "System Admin",
             Email = adminEmail,
@@ -173,8 +178,8 @@ using (var scope = app.Services.CreateScope())
             IsActive = true
         };
 
-        await userManager.CreateAsync(admin, "Admin@123");
-        await userManager.AddToRoleAsync(admin, "Admin");
+        await userManager.CreateAsync(newAdmin, "Admin@123");
+        await userManager.AddToRoleAsync(newAdmin, "Admin");
     }
 }
 
@@ -190,6 +195,11 @@ app.UseSwaggerUI(c =>
 app.MapGet("/", () => Results.Redirect("/swagger"));
 
 // ================= MIDDLEWARE =================
+if (!app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
+
 app.UseCors("AllowAll");
 
 app.UseAuthentication();

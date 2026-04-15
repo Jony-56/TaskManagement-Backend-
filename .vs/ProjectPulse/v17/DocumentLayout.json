@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\New folder\\ProjectPulse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260415124157_DatabaseAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPulse.Infrastructure\\Migrations\\20260415124157_DatabaseAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\new folder\\projectpulse\\projectpulse.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -245,6 +241,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\projectpulse.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\projectpulse.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|d:\\new folder\\projectpulse\\projectpulse.infrastructure\\migrations\\20260415124157_databaseadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34729739-FAE6-4058-B273-D4BC14F1A3F8}|ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj|solutionrelative:projectpulse.infrastructure\\migrations\\20260415124157_databaseadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -254,24 +254,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Program.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Program.cs",
               "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Program.cs",
               "RelativeToolTip": "ProjectPulse.API\\Program.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAmwK8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAALoAAAAAAAAAAAAmwMoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T12:36:48.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
@@ -279,25 +279,24 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAmwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:26:28.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:26:28.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
               "RelativeDocumentMoniker": "ProjectPulse.API\\appsettings.json",
               "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
               "RelativeToolTip": "ProjectPulse.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-11T12:43:43.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 60,
               "Title": "20260415124157_DatabaseAdded.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Migrations\\20260415124157_DatabaseAdded.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Migrations\\20260415124157_DatabaseAdded.cs",
@@ -305,12 +304,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Migrations\\20260415124157_DatabaseAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:41:57.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:41:57.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
@@ -318,12 +316,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAowLQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:33:45.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:33:45.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\ProjectsController.cs",
@@ -331,12 +328,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\ProjectsController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAswDQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:34:36.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:34:36.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProjectPulse.Core.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\ProjectPulse.Core.csproj",
@@ -344,12 +340,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\ProjectPulse.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-15T03:00:01.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T03:00:01.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -357,12 +352,11 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-15T02:04:52.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T02:04:52.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "TaskService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\TaskService.cs",
@@ -370,12 +364,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\TaskService.cs",
               "ViewState": "AgIAABMBAAAAAAAAAAAmwC4BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:34:09.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:34:09.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ProjectPulse.API.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\ProjectPulse.API.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.API\\ProjectPulse.API.csproj",
@@ -383,12 +376,11 @@
               "RelativeToolTip": "ProjectPulse.API\\ProjectPulse.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-11T12:34:47.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:34:47.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProjectPulse.Infrastructure.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
@@ -396,12 +388,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-15T03:00:31.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T03:00:31.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\TokenService.cs",
@@ -409,12 +400,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\TokenService.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:57:05.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:57:05.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\UserService.cs",
@@ -422,12 +412,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\UserService.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAkwJcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:07:25.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:07:25.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ProjectPulse.Tests.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Tests\\ProjectPulse.Tests.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.Tests\\ProjectPulse.Tests.csproj",
@@ -435,12 +424,11 @@
               "RelativeToolTip": "ProjectPulse.Tests\\ProjectPulse.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-15T03:01:02.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T03:01:02.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
@@ -448,12 +436,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAkwEwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:46:40.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:46:40.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "EmailTemplateHelper.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
@@ -461,12 +448,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\EmailTemplateHelper.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:58:20.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:58:20.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\EmailService.cs",
@@ -474,12 +460,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:57:25.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:57:25.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "ChatService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ChatService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\ChatService.cs",
@@ -487,12 +472,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\ChatService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAmwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:46:20.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:46:20.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\AuthService.cs",
@@ -500,12 +484,11 @@
               "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\AuthService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwCgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:57:48.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:57:48.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IUserService.cs",
@@ -513,12 +496,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:07:01.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:07:01.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\ITaskService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\ITaskService.cs",
@@ -526,12 +508,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\ITaskService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:33:22.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:33:22.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "IProjectService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IProjectService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IProjectService.cs",
@@ -539,12 +520,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:32:56.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:32:56.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\INotificationService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\INotificationService.cs",
@@ -552,12 +532,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\INotificationService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:45:58.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:45:58.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IEmailService.cs",
@@ -565,12 +544,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:55:29.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:55:29.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "IChatService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IChatService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IChatService.cs",
@@ -578,12 +556,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IChatService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:45:39.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:45:39.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Interfaces\\IAuthService.cs",
@@ -591,12 +568,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:54:58.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:54:58.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\TaskItem.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\TaskItem.cs",
@@ -604,12 +580,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\TaskItem.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:23:59.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:23:59.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "TaskComment.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\TaskComment.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\TaskComment.cs",
@@ -617,12 +592,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\TaskComment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:24:18.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:24:18.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ProjectMember.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\ProjectMember.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\ProjectMember.cs",
@@ -630,12 +604,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\ProjectMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:23:43.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:23:43.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Project.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\Project.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\Project.cs",
@@ -643,12 +616,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:23:13.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:23:13.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "Notification.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\Notification.cs",
@@ -656,12 +628,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:24:47.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:24:47.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "ChatMessage.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\ChatMessage.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\ChatMessage.cs",
@@ -669,12 +640,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\ChatMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:24:33.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:24:33.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\BaseEntity.cs",
@@ -682,12 +652,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:22:24.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:22:24.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\Entities\\AppUser.cs",
@@ -695,12 +664,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:22:43.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:22:43.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "UserDetailsDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
@@ -708,12 +676,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\UserDetailsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:04:59.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:04:59.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
@@ -721,12 +688,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:05:43.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:05:43.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
@@ -734,12 +700,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\ChangePasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:06:24.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:06:24.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "AssignRoleDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
@@ -747,12 +712,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\User\\AssignRoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:06:02.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:06:02.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "UpdateTaskStatusDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
@@ -760,12 +724,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskStatusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:32:06.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:32:06.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "UpdateTaskDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
@@ -773,12 +736,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\UpdateTaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:31:25.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:31:25.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "TaskDetailsDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
@@ -786,12 +748,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\TaskDetailsDto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA6wBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:31:45.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:31:45.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "CreateTaskDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
@@ -799,12 +760,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\CreateTaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:30:19.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:30:19.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "AddCommentDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
@@ -812,12 +772,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Task\\AddCommentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:32:26.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:32:26.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "UpdateProjectDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
@@ -825,12 +784,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\UpdateProjectDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:28:55.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:28:55.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "ProjectDetailsDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
@@ -838,12 +796,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\ProjectDetailsDto.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA6wBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:29:14.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:29:14.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "CreateProjectDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
@@ -851,12 +808,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\CreateProjectDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:28:39.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:28:39.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "AddMemberDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
@@ -864,12 +820,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Project\\AddMemberDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:30:02.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:30:02.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "NotificationDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
@@ -877,12 +832,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Notification\\NotificationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:45:12.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:45:12.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "ChatMessageDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
@@ -890,12 +844,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Chat\\ChatMessageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:44:46.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:44:46.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
@@ -903,12 +856,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Auth\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:53:47.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:53:47.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
@@ -916,12 +868,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Auth\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:54:07.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:54:07.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
@@ -929,12 +880,11 @@
               "RelativeToolTip": "ProjectPulse.Core\\DTOs\\Auth\\AuthResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:54:23.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:54:23.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "NotificationHub.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Hubs\\NotificationHub.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Hubs\\NotificationHub.cs",
@@ -942,12 +892,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Hubs\\NotificationHub.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAswC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:47:42.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:47:42.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Hubs\\ChatHub.cs",
@@ -955,12 +904,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Hubs\\ChatHub.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAowFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:47:23.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:47:23.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\UsersController.cs",
@@ -968,12 +916,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\UsersController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAowCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:07:58.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:07:58.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "TasksController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\TasksController.cs",
@@ -981,12 +928,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\TasksController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:35:03.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:35:03.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "NotificationsController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\NotificationsController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\NotificationsController.cs",
@@ -994,12 +940,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\NotificationsController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:48:24.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:48:24.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "ChatController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\ChatController.cs",
@@ -1007,12 +952,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\ChatController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:48:04.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:48:04.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\AuthController.cs",
@@ -1020,12 +964,11 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T21:58:53.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T21:58:53.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Controllers\\AdminController.cs",
@@ -1033,20 +976,18 @@
               "RelativeToolTip": "ProjectPulse.API\\Controllers\\AdminController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:08:21.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:08:21.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "ProjectPulse.API",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\ProjectPulse.API.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.API\\ProjectPulse.API.csproj",
               "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\ProjectPulse.API.csproj",
               "RelativeToolTip": "ProjectPulse.API\\ProjectPulse.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-15T03:06:28.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T03:06:28.709Z"
             }
           ]
         }
