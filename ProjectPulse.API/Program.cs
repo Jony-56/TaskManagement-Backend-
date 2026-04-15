@@ -12,6 +12,9 @@ using ProjectPulse.API.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// ================= LOGGING =================
+builder.Logging.AddConsole();
+
 // ================= CONTROLLERS =================
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -54,7 +57,10 @@ builder.Services.AddSwaggerGen(c =>
 
 // ================= DATABASE =================
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")
+    )
+);
 
 // ================= IDENTITY =================
 builder.Services.AddIdentityCore<AppUser>(options =>
@@ -87,7 +93,8 @@ builder.Services.AddAuthentication(options =>
         ValidIssuer = jwtSettings["Issuer"],
         ValidAudience = jwtSettings["Audience"],
         IssuerSigningKey = new SymmetricSecurityKey(
-            Encoding.UTF8.GetBytes(jwtSettings["Secret"]!))
+            Encoding.UTF8.GetBytes(jwtSettings["Secret"]!)
+        )
     };
 
     options.Events = new JwtBearerEvents
@@ -113,19 +120,22 @@ builder.Services.AddAuthorization();
 // ================= SIGNALR =================
 builder.Services.AddSignalR();
 
-// ================= CORS =================
+// ================= CORS (OPEN FOR TESTING ONLY) =================
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend", policy =>
+    options.AddPolicy("AllowAll", policy =>
     {
         policy
+<<<<<<< HEAD
             .WithOrigins(
                 "http://localhost:5173",
                 "https://task-management-full-stack-jony-56s-projects.vercel.app"
             )
+=======
+            .AllowAnyOrigin()
+>>>>>>> 8bb34ca (fixed)
             .AllowAnyHeader()
-            .AllowAnyMethod()
-            .AllowCredentials();
+            .AllowAnyMethod();
     });
 });
 
@@ -173,7 +183,7 @@ using (var scope = app.Services.CreateScope())
 
 // ================= PIPELINE =================
 
-// ? ENABLE SWAGGER IN PRODUCTION
+// Swagger always ON (dev + prod)
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
@@ -181,24 +191,24 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = "swagger";
 });
 
-// ? ROOT REDIRECT
+// Root redirect
 app.MapGet("/", () => Results.Redirect("/swagger"));
 
-// ? HTTPS redirect not needed in Render
+// HTTPS only in development
 if (app.Environment.IsDevelopment())
 {
     app.UseHttpsRedirection();
 }
 
 // ================= MIDDLEWARE =================
-app.UseCors("AllowFrontend");
+app.UseCors("AllowAll");
 
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
 
-// ================= SIGNALR ROUTES =================
+// ================= SIGNALR =================
 app.MapHub<ChatHub>("/hubs/chat");
 app.MapHub<NotificationHub>("/hubs/notifications");
 

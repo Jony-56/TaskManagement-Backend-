@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\New folder\\ProjectPulse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -203,10 +207,6 @@
       "RelativeMoniker": "D:0:0:{61F8C086-4C4A-470D-89E7-C5528BE8EB94}|ProjectPulse.Core\\ProjectPulse.Core.csproj|solutionrelative:projectpulse.core\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|d:\\new folder\\projectpulse\\projectpulse.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A3BB0A1-B672-4366-9EF7-9A907862C1B4}|ProjectPulse.API\\ProjectPulse.API.csproj|solutionrelative:projectpulse.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -274,11 +274,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectPulse.Core.csproj",
+              "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj",
+              "RelativeDocumentMoniker": "ProjectPulse.Core\\ProjectPulse.Core.csproj",
+              "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj",
+              "RelativeToolTip": "ProjectPulse.Core\\ProjectPulse.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T03:00:01.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> 8bb34ca (fixed)
               "Title": "ProjectPulse.API.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\ProjectPulse.API.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.API\\ProjectPulse.API.csproj",
@@ -290,7 +310,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 7,
+>>>>>>> 8bb34ca (fixed)
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\UserService.cs",
@@ -302,7 +326,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 8,
+>>>>>>> 8bb34ca (fixed)
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\TokenService.cs",
@@ -314,7 +342,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 9,
+>>>>>>> 8bb34ca (fixed)
               "Title": "TaskService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\TaskService.cs",
@@ -326,20 +358,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Program.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Program.cs",
               "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Program.cs",
               "RelativeToolTip": "ProjectPulse.API\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAG8AAAAAAAAAAAAmwIUAAAA6AAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwM8AAAAKAAAAAAAAAA==",
+>>>>>>> 8bb34ca (fixed)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T12:36:48.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 8bb34ca (fixed)
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -348,6 +388,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-15T02:04:52.623Z"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -390,6 +431,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectPulse.API\\appsettings.json",
+              "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
+              "RelativeToolTip": "ProjectPulse.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T12:43:43.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> 8bb34ca (fixed)
               "Title": "ProjectPulse.Infrastructure.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
@@ -401,7 +461,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 8bb34ca (fixed)
               "Title": "ProjectPulse.Tests.csproj",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Tests\\ProjectPulse.Tests.csproj",
               "RelativeDocumentMoniker": "ProjectPulse.Tests\\ProjectPulse.Tests.csproj",
@@ -413,6 +477,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+=======
+              "DocumentIndex": 10,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "ToolTip": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "RelativeToolTip": "ProjectPulse.Infrastructure\\Services\\ProjectService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:33:45.973Z"
+            },
+            {
+              "$type": "Document",
+>>>>>>> 8bb34ca (fixed)
               "DocumentIndex": 11,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\Services\\NotificationService.cs",
@@ -882,6 +961,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 50,
+<<<<<<< HEAD
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\appsettings.json",
               "RelativeDocumentMoniker": "ProjectPulse.API\\appsettings.json",
@@ -894,6 +974,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 51,
+=======
+>>>>>>> 8bb34ca (fixed)
               "Title": "NotificationHub.cs",
               "DocumentMoniker": "D:\\New folder\\ProjectPulse\\ProjectPulse.API\\Hubs\\NotificationHub.cs",
               "RelativeDocumentMoniker": "ProjectPulse.API\\Hubs\\NotificationHub.cs",
