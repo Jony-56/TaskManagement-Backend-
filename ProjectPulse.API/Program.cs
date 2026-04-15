@@ -120,20 +120,13 @@ builder.Services.AddAuthorization();
 // ================= SIGNALR =================
 builder.Services.AddSignalR();
 
-// ================= CORS (OPEN FOR TESTING ONLY) =================
+// ================= CORS (FULL OPEN) =================
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
     {
         policy
-<<<<<<< HEAD
-            .WithOrigins(
-                "http://localhost:5173",
-                "https://task-management-full-stack-jony-56s-projects.vercel.app"
-            )
-=======
             .AllowAnyOrigin()
->>>>>>> 8bb34ca (fixed)
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
@@ -182,8 +175,6 @@ using (var scope = app.Services.CreateScope())
 }
 
 // ================= PIPELINE =================
-
-// Swagger always ON (dev + prod)
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
@@ -191,10 +182,8 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = "swagger";
 });
 
-// Root redirect
 app.MapGet("/", () => Results.Redirect("/swagger"));
 
-// HTTPS only in development
 if (app.Environment.IsDevelopment())
 {
     app.UseHttpsRedirection();
