@@ -2,6 +2,7 @@
   "openapi": "3.0.4",
   "info": {
     "title": "ProjectPulse API",
+    "description": "Project Management API",
     "version": "v1"
   },
   "paths": {
@@ -349,6 +350,18 @@
       "put": {
         "tags": [
           "Notifications"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "ProjectPulse.API"
         ],
         "responses": {
           "200": {

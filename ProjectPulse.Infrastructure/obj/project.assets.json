@@ -5147,11 +5147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Downloads\\ProjectPulse-Fixed\\ProjectPulse\\ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
+      "projectUniqueName": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
       "projectName": "ProjectPulse.Infrastructure",
-      "projectPath": "E:\\Downloads\\ProjectPulse-Fixed\\ProjectPulse\\ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
+      "projectPath": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\ProjectPulse.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\TORIQUIL ISLAM JONY\\.nuget\\packages\\",
-      "outputPath": "E:\\Downloads\\ProjectPulse-Fixed\\ProjectPulse\\ProjectPulse.Infrastructure\\obj\\",
+      "outputPath": "D:\\New folder\\ProjectPulse\\ProjectPulse.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5172,8 +5172,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\Downloads\\ProjectPulse-Fixed\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj": {
-              "projectPath": "E:\\Downloads\\ProjectPulse-Fixed\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj"
+            "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj": {
+              "projectPath": "D:\\New folder\\ProjectPulse\\ProjectPulse.Core\\ProjectPulse.Core.csproj"
             }
           }
         }
