@@ -520,7 +520,17 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectPulse.API.Controllers.UsersController",
+    "ContainingType": "UsersController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UsersController",
     "Method": "GetMe",
     "RelativePath": "api/users/me",
     "HttpMethod": "GET",
@@ -530,7 +540,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectPulse.API.Controllers.UsersController",
+    "ContainingType": "UsersController",
     "Method": "UpdateMe",
     "RelativePath": "api/users/me",
     "HttpMethod": "PUT",
@@ -546,7 +556,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectPulse.API.Controllers.UsersController",
+    "ContainingType": "UsersController",
     "Method": "ChangePassword",
     "RelativePath": "api/users/me/change-password",
     "HttpMethod": "PUT",

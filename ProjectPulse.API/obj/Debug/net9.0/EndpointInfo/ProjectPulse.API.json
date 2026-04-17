@@ -844,6 +844,18 @@
         }
       }
     },
+    "/api/users": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/users/me": {
       "get": {
         "tags": [

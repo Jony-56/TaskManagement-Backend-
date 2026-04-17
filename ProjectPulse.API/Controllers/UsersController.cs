@@ -1,10 +1,8 @@
-﻿using System.Security.Claims;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProjectPulse.Core.DTOs.User;
 using ProjectPulse.Core.Interfaces;
-
-namespace ProjectPulse.API.Controllers;
+using System.Security.Claims;
 
 [ApiController]
 [Route("api/users")]
@@ -13,6 +11,14 @@ public class UsersController : ControllerBase
 {
     private readonly IUserService _userService;
     public UsersController(IUserService userService) => _userService = userService;
+
+    // ✅ NEW — Any logged-in user can get all users (for adding members)
+    [HttpGet]
+    public async Task<IActionResult> GetAllUsers()
+    {
+        var users = await _userService.GetAllUsersAsync();
+        return Ok(users);
+    }
 
     // GET current logged-in user profile
     [HttpGet("me")]
